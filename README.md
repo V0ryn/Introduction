@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mitarashi Anko, a self taught (2020) developer.</div>  
+### <div align="center">I'm Nihil, a self taught (2020) developer.</div>  
   
 
 - 🔭 I’m currently working on polishing my current knowledge and skills. As well as further improving my horizons.  
@@ -15,7 +15,9 @@
 - ❓ Ask me about anything!  
   
 
-- ⚡ Fun fact: Mitarashi anko is my real name. I was born in japan, funnily enough and was born in 1997, beating NARUTO out by 3 years.  
+- ⚡ Fun fact: Mitarashi anko is my real name. I was born in japan, funnily enough and was born in 1997, beating NARUTO out by 3 years.
+
+- ⚡ Fun fact 2: I go by Nihil or Voryn on the web.
   
 
 <br/>  
