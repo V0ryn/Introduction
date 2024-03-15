@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Voryn<br><br>- 🔭 I’m a self taught developer (2023)<br>- 📚 I'm currently learning the godot engine<br>- ⚡ In my free time I make games for fun</p>
+<p align="left">I'm Nihil<br><br>- 🔭 I’m a self taught developer (2023)<br>- 📚 I'm currently learning the godot engine<br>- ⚡ In my free time I make games for fun</p>
 
 ###
 
